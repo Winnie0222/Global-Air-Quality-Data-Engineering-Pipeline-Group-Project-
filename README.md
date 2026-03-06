@@ -5,7 +5,7 @@
 This project develops an end-to-end data engineering pipeline to process and analyze global air quality data. The system streams raw environmental data, performs data cleaning and validation, and stores the processed data in both document and graph databases for analysis. The project supports Sustainable Development Goals (SDG) 3 (Good Health and Well-being) and SDG 11 (Sustainable Cities and Communities) by providing structured air quality data for environmental monitoring and decision-making.
 
 ## Dataset
-The dataset used in this project was obtained from Kaggle, titled “Global Urban Air Quality Index Dataset (2015–2025)”.
+The dataset used in this project was obtained from Kaggle, titled “Global Urban Air Quality Index Dataset (2015–2025)”. (https://www.kaggle.com/datasets/syedmtalhahasan/global-urban-air-quality-index-dataset-2015-2025?select=global_air_quality_dataset.csv)
 The dataset contains air quality measurements from multiple global cities, including:
 
 * AQI (Air Quality Index)
